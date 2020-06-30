@@ -17,11 +17,11 @@ public class WangPo implements KindWomen {
 
     @Override
     public void makeEyesWithMan() {
-        System.out.println("WangPo.. makeEyesWithMan");
+        System.out.println(woman+".. makeEyesWithMan");
     }
 
     @Override
     public void happyWithMan() {
-        System.out.println("WangPo.. happyWithMan");
+        System.out.println(woman+".. happyWithMan");
     }
 }

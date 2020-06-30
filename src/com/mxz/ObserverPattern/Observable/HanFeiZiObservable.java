@@ -14,7 +14,7 @@ public class HanFeiZiObservable extends Observable {
     //韩非子要吃饭了
     public void haveBreakfast() {
         System.out.println("韩非子:开始吃饭了...");
-//通知所有的观察者
+    //通知所有的观察者
         super.setChanged();
         this.notifyObservers("韩非子在吃饭");
     }

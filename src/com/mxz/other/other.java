@@ -15,7 +15,7 @@ public class other {
 //        demo3();
 //        demo4();
 //        demo5();
-//        demo6();
+        demo6();
 
         //Consumer<demo> sayHello = demo::sayHello;
         //System.out.println(sayHello);
